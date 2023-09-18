@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a21b5bc6-432d-4659-abf7-d7cfc10e82f4" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BigRectLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BigRectangleFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortLister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShortWordFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/words.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a21b5bc6-432d-4659-abf7-d7cfc10e82f4" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +47,15 @@
       <option name="presentableId" value="Default" />
       <updated>1695054165617</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1695054827539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695054827539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
